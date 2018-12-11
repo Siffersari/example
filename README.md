@@ -1,1 +1,1 @@
-This  is an example of master branch readme
+This  is an example of gh-pages branch readme
